@@ -1,0 +1,53 @@
+{
+    "name": "ID12. Переход с главной страницы на страницу «Новости» посредством гамбургер-меню в левом верхнем углу приложения",
+    "start": 1742464523366,
+    "stop": 1742464551808,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "b4f2f058-ae8c-4391-ade8-91bf5b360816",
+    "historyId": "ed5f9dfdcbddf338a9d5b64ed44c70e7",
+    "fullName": "ru.iteco.fmhandroid.ui.tests.MainTest.goToNewsPage",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui.tests"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.tests.MainTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "goToNewsPage"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.tests.MainTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: io.qameta.allure.android.runners.AllureAndroidJUnitRunner(524)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        }
+    ]
+}
