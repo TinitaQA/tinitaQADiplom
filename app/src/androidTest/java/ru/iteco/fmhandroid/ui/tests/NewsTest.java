@@ -48,7 +48,7 @@ public class NewsTest {
     }
 
     @Test
-    @DisplayName("ID34. Создание новости со статусом «Активна» с заполнением всех полей")
+    @DisplayName("ID36. Создание новости со статусом «Активна» с заполнением всех полей")
     public void addNews() {
         mainStep.toNewsPage();
         newsStep.goToTheControlPanelPage();
@@ -64,7 +64,7 @@ public class NewsTest {
     }
 
     @Test
-    @DisplayName("ID36. Создание новости без заполнения всех полей")
+    @DisplayName("ID38. Создание новости без заполнения всех полей")
     public void addNewsWithEmptyFields() {
         mainStep.toNewsPage();
         newsStep.goToTheControlPanelPage();
@@ -74,7 +74,7 @@ public class NewsTest {
     }
 
     @Test
-    @DisplayName("ID37. Создание новости с будущей датой")
+    @DisplayName("ID39. Создание новости с будущей датой")
     public void addNewsWithFutureDate() {
         mainStep.toNewsPage();
         newsStep.goToTheControlPanelPage();
